@@ -1,7 +1,7 @@
-name = "krishna priya"
-height = 152
-weight = 42
-sem_pass=True
+name = "krishna priya" #this is a string variable
+height = 152 #int
+weight = 42 #int
+sem_pass=True #boolean
 print(name)
 print(height)
 print(weight)

@@ -7,3 +7,4 @@ thisdict["color"]="red"
 print(thisdict)
 thisdict.pop("year")
 print(thisdict)
+
